@@ -18,8 +18,8 @@
 <meta name="robots" content="index, follow">
 <meta name="keywords" content="">
 <meta name="description" content="">
-<?php elseif ($_SERVER["REQUEST_URI"] == '/vacancy/detail/'): ?>
-<title>ЗМК МАМИ Вакансии | Вакансия детально</title>
+<?php elseif ($_SERVER["REQUEST_URI"] == '/vacancy/detail/welder/'): ?>
+<title>ЗМК МАМИ Вакансии | Сварщик на полуавтомат</title>
 <meta name="robots" content="index, follow">
 <meta name="keywords" content="">
 <meta name="description" content="">

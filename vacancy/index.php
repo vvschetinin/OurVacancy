@@ -22,28 +22,26 @@
 
         <li class="vacancy-item">
           <div class="vacancy-item-detail">
-            <h2>Электрик по техническому обслуживанию<span>ЗМК МАМИ</span></h2>
+            <h2>Сварщик на полуавтомат<span>ЗМК МАМИ</span></h2>
             <ul class="list-detail">
               <li>Место работы:<span>г. Ивантеевка</span></li>
-              <li>Заработная плата:<span>от 85 000 &#8381;</span></li>
+              <li>Заработная плата:<span>от 100 000 &#8381;</span></li>
               <li>Действительно до:<span>01.05.2024</span></li>
             </ul>
           </div>
           <div class="vacancy-item-body">
             <h3>Роль</h3>
-            <p>В качестве электрика по техническому обслуживанию необходимо будет проводить плановые, профилактические и
-              профилактические работы по техническому обслуживанию оборудования, инструментов и сооружений на всей
-              территории
-              объекта.</p>
-            <h3 class="mt-1">Основные требования</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae maxime nesciunt dolorum quis
-              corporis optio
-              pariatur sint, ab hic odio incidunt libero natus impedit vitae eius unde veritatis, quasi esse quas! Quia
-              quidem
-              iste, rem facere sint quam.</p>
+            <p>В качестве сварщика на полуавтоматическом оборудовании необходимо будет проводить сварку собранных на
+              участках сборки изделий, и сдача выполненных работ сотрудникам ОТК согласно параметрам, установленным
+              технической документацией.
+            </p>
+            <h3 class="mt-1">Требования к кандидату</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem corporis, odit ex perspiciatis facilis
+              natus excepturi suscipit consequatur nisi doloremque harum atque cumque tenetur ipsa tempora quae
+              voluptatem modi qui facere debitis eveniet ea!</p>
           </div>
           <div class="vacancy-item-footer">
-            <a href="/vacancy/detail/" class="btn btn-bg--red">
+            <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
               <span class="btn-text">Подробнее</span>&#10132;
             </a>
           </div>
@@ -51,28 +49,26 @@
 
         <li class="vacancy-item">
           <div class="vacancy-item-detail">
-            <h2>Электрик по техническому обслуживанию<span>ЗМК МАМИ</span></h2>
+            <h2>Сварщик на полуавтомат<span>ЗМК МАМИ</span></h2>
             <ul class="list-detail">
               <li>Место работы:<span>г. Ивантеевка</span></li>
-              <li>Заработная плата:<span>от 85 000 &#8381;</span></li>
+              <li>Заработная плата:<span>от 100 000 &#8381;</span></li>
               <li>Действительно до:<span>01.05.2024</span></li>
             </ul>
           </div>
           <div class="vacancy-item-body">
             <h3>Роль</h3>
-            <p>В качестве электрика по техническому обслуживанию необходимо будет проводить плановые, профилактические и
-              профилактические работы по техническому обслуживанию оборудования, инструментов и сооружений на всей
-              территории
-              объекта.</p>
-            <h3 class="mt-1">Основные требования</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae maxime nesciunt dolorum quis
-              corporis optio
-              pariatur sint, ab hic odio incidunt libero natus impedit vitae eius unde veritatis, quasi esse quas! Quia
-              quidem
-              iste, rem facere sint quam.</p>
+            <p>В качестве сварщика на полуавтоматическом оборудовании необходимо будет проводить сварку собранных на
+              участках сборки изделий, и сдача выполненных работ сотрудникам ОТК согласно параметрам, установленным
+              технической документацией.
+            </p>
+            <h3 class="mt-1">Требования к кандидату</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem corporis, odit ex perspiciatis facilis
+              natus excepturi suscipit consequatur nisi doloremque harum atque cumque tenetur ipsa tempora quae
+              voluptatem modi qui facere debitis eveniet ea!</p>
           </div>
           <div class="vacancy-item-footer">
-            <a href="/vacancy/detail/" class="btn btn-bg--red">
+            <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
               <span class="btn-text">Подробнее</span>&#10132;
             </a>
           </div>
@@ -80,28 +76,26 @@
 
         <li class="vacancy-item">
           <div class="vacancy-item-detail">
-            <h2>Электрик по техническому обслуживанию<span>ЗМК МАМИ</span></h2>
+            <h2>Сварщик на полуавтомат<span>ЗМК МАМИ</span></h2>
             <ul class="list-detail">
               <li>Место работы:<span>г. Ивантеевка</span></li>
-              <li>Заработная плата:<span>от 85 000 &#8381;</span></li>
+              <li>Заработная плата:<span>от 100 000 &#8381;</span></li>
               <li>Действительно до:<span>01.05.2024</span></li>
             </ul>
           </div>
           <div class="vacancy-item-body">
             <h3>Роль</h3>
-            <p>В качестве электрика по техническому обслуживанию необходимо будет проводить плановые, профилактические и
-              профилактические работы по техническому обслуживанию оборудования, инструментов и сооружений на всей
-              территории
-              объекта.</p>
-            <h3 class="mt-1">Основные требования</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae maxime nesciunt dolorum quis
-              corporis optio
-              pariatur sint, ab hic odio incidunt libero natus impedit vitae eius unde veritatis, quasi esse quas! Quia
-              quidem
-              iste, rem facere sint quam.</p>
+            <p>В качестве сварщика на полуавтоматическом оборудовании необходимо будет проводить сварку собранных на
+              участках сборки изделий, и сдача выполненных работ сотрудникам ОТК согласно параметрам, установленным
+              технической документацией.
+            </p>
+            <h3 class="mt-1">Требования к кандидату</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem corporis, odit ex perspiciatis facilis
+              natus excepturi suscipit consequatur nisi doloremque harum atque cumque tenetur ipsa tempora quae
+              voluptatem modi qui facere debitis eveniet ea!</p>
           </div>
           <div class="vacancy-item-footer">
-            <a href="/vacancy/detail/" class="btn btn-bg--red">
+            <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
               <span class="btn-text">Подробнее</span>&#10132;
             </a>
           </div>
@@ -109,28 +103,26 @@
 
         <li class="vacancy-item">
           <div class="vacancy-item-detail">
-            <h2>Электрик по техническому обслуживанию<span>ЗМК МАМИ</span></h2>
+            <h2>Сварщик на полуавтомат<span>ЗМК МАМИ</span></h2>
             <ul class="list-detail">
               <li>Место работы:<span>г. Ивантеевка</span></li>
-              <li>Заработная плата:<span>от 85 000 &#8381;</span></li>
+              <li>Заработная плата:<span>от 100 000 &#8381;</span></li>
               <li>Действительно до:<span>01.05.2024</span></li>
             </ul>
           </div>
           <div class="vacancy-item-body">
             <h3>Роль</h3>
-            <p>В качестве электрика по техническому обслуживанию необходимо будет проводить плановые, профилактические и
-              профилактические работы по техническому обслуживанию оборудования, инструментов и сооружений на всей
-              территории
-              объекта.</p>
-            <h3 class="mt-1">Основные требования</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae maxime nesciunt dolorum quis
-              corporis optio
-              pariatur sint, ab hic odio incidunt libero natus impedit vitae eius unde veritatis, quasi esse quas! Quia
-              quidem
-              iste, rem facere sint quam.</p>
+            <p>В качестве сварщика на полуавтоматическом оборудовании необходимо будет проводить сварку собранных на
+              участках сборки изделий, и сдача выполненных работ сотрудникам ОТК согласно параметрам, установленным
+              технической документацией.
+            </p>
+            <h3 class="mt-1">Требования к кандидату</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem corporis, odit ex perspiciatis facilis
+              natus excepturi suscipit consequatur nisi doloremque harum atque cumque tenetur ipsa tempora quae
+              voluptatem modi qui facere debitis eveniet ea!</p>
           </div>
           <div class="vacancy-item-footer">
-            <a href="/vacancy/detail/" class="btn btn-bg--red">
+            <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
               <span class="btn-text">Подробнее</span>&#10132;
             </a>
           </div>
@@ -138,28 +130,26 @@
 
         <li class="vacancy-item">
           <div class="vacancy-item-detail">
-            <h2>Электрик по техническому обслуживанию<span>ЗМК МАМИ</span></h2>
+            <h2>Сварщик на полуавтомат<span>ЗМК МАМИ</span></h2>
             <ul class="list-detail">
               <li>Место работы:<span>г. Ивантеевка</span></li>
-              <li>Заработная плата:<span>от 85 000 &#8381;</span></li>
+              <li>Заработная плата:<span>от 100 000 &#8381;</span></li>
               <li>Действительно до:<span>01.05.2024</span></li>
             </ul>
           </div>
           <div class="vacancy-item-body">
             <h3>Роль</h3>
-            <p>В качестве электрика по техническому обслуживанию необходимо будет проводить плановые, профилактические и
-              профилактические работы по техническому обслуживанию оборудования, инструментов и сооружений на всей
-              территории
-              объекта.</p>
-            <h3 class="mt-1">Основные требования</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae maxime nesciunt dolorum quis
-              corporis optio
-              pariatur sint, ab hic odio incidunt libero natus impedit vitae eius unde veritatis, quasi esse quas! Quia
-              quidem
-              iste, rem facere sint quam.</p>
+            <p>В качестве сварщика на полуавтоматическом оборудовании необходимо будет проводить сварку собранных на
+              участках сборки изделий, и сдача выполненных работ сотрудникам ОТК согласно параметрам, установленным
+              технической документацией.
+            </p>
+            <h3 class="mt-1">Требования к кандидату</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem corporis, odit ex perspiciatis facilis
+              natus excepturi suscipit consequatur nisi doloremque harum atque cumque tenetur ipsa tempora quae
+              voluptatem modi qui facere debitis eveniet ea!</p>
           </div>
           <div class="vacancy-item-footer">
-            <a href="/vacancy/detail/" class="btn btn-bg--red">
+            <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
               <span class="btn-text">Подробнее</span>&#10132;
             </a>
           </div>
