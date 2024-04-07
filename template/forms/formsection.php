@@ -30,9 +30,9 @@
               <label for="formcheck">Я даю согласие на обработку предоставленных данных</label>
             </div>
             <div class="button-wrap mt-2">
-              <a href="" class="btn btn-bg--red">
+              <button class="btn btn-bg--red btn-form" id="formbutton" disabled>
                 <span class="btn-text">Отправить</span>&#10132;
-              </a>
+              </button>
             </div>
           </form>
         </article>
