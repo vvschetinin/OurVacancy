@@ -13,7 +13,7 @@
                 <input type="text" name="name" placeholder="Ваше имя *" required>
               </li>
               <li class="field-wrap">
-                <input type="tel" name="phone" placeholder="Телефон *" required>
+                <input type="tel" name="phone" data-phone-pattern placeholder="Телефон *" required>
               </li>
               <li class="field-wrap">
                 <input type="email" name="email" placeholder="E-mail">
