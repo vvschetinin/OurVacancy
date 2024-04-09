@@ -36,8 +36,13 @@
               <button class="btn btn-bg--red btn-form" id="formbutton" disabled>
                 <span class="btn-text">Отправить</span>&#10132;
               </button>
-              <input type="hidden" class="form-hidden" name="project_name" value="Раздел вакансий ЗМК МАМИ">
+              <input type="hidden" class="form-hidden" name="project_name" value="Сайт вакансий ЗМК МАМИ">
               <input type="hidden" class="form-hidden" name="form_subject" value="Сообщение с формы обратной связи">
+              <input type="text" class="helpmess" name="target_text" value="">
+              <input type="text" class="form-target_page-text" name="target_page-text" value="">
+              <input type="number" class="form-target_page-number" name="target_page-number" value="">
+              <input type="email" class="form-target_page-email" name="target_page-email" value="">
+              <input type="tel" class="form-target_page-phone" name="target_page-phone" value="">
             </div>
           </form>
         </article>
