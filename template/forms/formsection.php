@@ -32,11 +32,11 @@
                 <label for="formcheck">Я даю согласие на обработку предоставленных данных</label>
               </div>
             </div>
-            <div class="form-footer button-wrap mt-2">
+            <div class="form-footer mt-2">
               <button class="btn btn-bg--red btn-form" id="formbutton" disabled>
                 <span class="btn-text">Отправить</span>&#10132;
               </button>
-              <input type="hidden" class="form-hidden" name="project_name" value="Сайт вакансий ЗМК МАМИ">
+              <input type="hidden" class="form-hidden" name="project_name" value="Раздел вакансий ЗМК МАМИ">
               <input type="hidden" class="form-hidden" name="form_subject" value="Сообщение с формы обратной связи">
             </div>
           </form>
