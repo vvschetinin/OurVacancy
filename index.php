@@ -164,7 +164,7 @@
                 </ul>
               </div>
               <div class="vacancy-item-footer">
-                <a href="/vacancy/detail/" class="btn btn-bg--red">
+                <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
                   <span class="btn-text">Подробнее</span>&#10132;
                 </a>
               </div>
@@ -183,7 +183,7 @@
                 </ul>
               </div>
               <div class="vacancy-item-footer">
-                <a href="/vacancy/detail/" class="btn btn-bg--red">
+                <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
                   <span class="btn-text">Подробнее</span>&#10132;
                 </a>
               </div>
@@ -202,7 +202,7 @@
                 </ul>
               </div>
               <div class="vacancy-item-footer">
-                <a href="/vacancy/detail/" class="btn btn-bg--red">
+                <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
                   <span class="btn-text">Подробнее</span>&#10132;
                 </a>
               </div>
@@ -221,7 +221,7 @@
                 </ul>
               </div>
               <div class="vacancy-item-footer">
-                <a href="/vacancy/detail/" class="btn btn-bg--red">
+                <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
                   <span class="btn-text">Подробнее</span>&#10132;
                 </a>
               </div>
