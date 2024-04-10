@@ -10,7 +10,7 @@ $message = "";
 $project_name = trim($_POST["project_name"]);
 $form_subject = trim($_POST["form_subject"]);
 $admin_email  = "shchetinin.v@zmk-mami.ru";
-$spam = $_POST["target_text"];
+$spam = $_POST["target_text" && "target_page-text" && "target_page-number" && "target_page-email" && "target_page-email" && "target_page-phone"];
 
 foreach ( $_POST as $key => $value ) {
 	$value = htmlspecialchars(stripslashes($value));
@@ -27,7 +27,7 @@ foreach ( $_POST as $key => $value ) {
 	$project_name = trim($_GET["project_name"]);
 	$form_subject = trim($_GET["form_subject"]);
 	$admin_email  = "shchetinin.v@zmk-mami.ru";
-	$spam = $_GET["target_text"];
+	$spam = $_GET["target_text" && "target_page-text" && "target_page-number" && "target_page-email" && "target_page-email" && "target_page-phone"];
 
 	foreach ( $_GET as $key => $value ) {
 		$value = htmlspecialchars(stripslashes($value));
