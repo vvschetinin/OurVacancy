@@ -159,7 +159,7 @@
               <div class="vacancy-card-detail">
                 <ul class="list-detail">
                   <li>Место работы:<span>г. Ивантеевка</span></li>
-                  <li>Заработная плата:<span>от 85 000 &#8381;</span></li>
+                  <li>Заработная плата:<span>от 100 000 &#8381;</span></li>
                   <li>Действительно до:<span>01.05.2024</span></li>
                 </ul>
               </div>
@@ -173,17 +173,17 @@
           <div class="swiper-slide">
             <div class="vacancy-card">
               <div class="card-title">
-                <h2>Слесарь МСР</h2>
+                <h2>Сборщик металлоконструкций</h2>
               </div>
               <div class="vacancy-card-detail">
                 <ul class="list-detail">
                   <li>Место работы:<span>г. Ивантеевка</span></li>
-                  <li>Заработная плата:<span>от 85 000 &#8381;</span></li>
+                  <li>Заработная плата:<span>от 100 000 &#8381;</span></li>
                   <li>Действительно до:<span>01.05.2024</span></li>
                 </ul>
               </div>
               <div class="vacancy-item-footer">
-                <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
+                <a href="/vacancy/detail/metalassembler/" class="btn btn-bg--red">
                   <span class="btn-text">Подробнее</span>&#10132;
                 </a>
               </div>
@@ -197,12 +197,12 @@
               <div class="vacancy-card-detail">
                 <ul class="list-detail">
                   <li>Место работы:<span>г. Ивантеевка</span></li>
-                  <li>Заработная плата:<span>от 85 000 &#8381;</span></li>
+                  <li>Заработная плата:<span>от 100 000 &#8381;</span></li>
                   <li>Действительно до:<span>01.05.2024</span></li>
                 </ul>
               </div>
               <div class="vacancy-item-footer">
-                <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
+                <a href="/vacancy/detail/painter/" class="btn btn-bg--red">
                   <span class="btn-text">Подробнее</span>&#10132;
                 </a>
               </div>
@@ -216,12 +216,12 @@
               <div class="vacancy-card-detail">
                 <ul class="list-detail">
                   <li>Место работы:<span>г. Ивантеевка</span></li>
-                  <li>Заработная плата:<span>от 85 000 &#8381;</span></li>
+                  <li>Заработная плата:<span>от 60 000 &#8381;</span></li>
                   <li>Действительно до:<span>01.05.2024</span></li>
                 </ul>
               </div>
               <div class="vacancy-item-footer">
-                <a href="/vacancy/detail/welder/" class="btn btn-bg--red">
+                <a href="/vacancy/detail/cnc-operator/" class="btn btn-bg--red">
                   <span class="btn-text">Подробнее</span>&#10132;
                 </a>
               </div>
@@ -233,7 +233,6 @@
     </div>
   </div>
 </section>
-
 
 <section class="section-type advantages pattern-triangle bg-primary color-white">
   <div class="container">
