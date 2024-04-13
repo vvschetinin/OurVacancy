@@ -26,16 +26,22 @@
       <ul class="col-100 flex footer-copyright-author mt-2">
         <li>&copy; 2024 ZMK MAMI</li>
         <li>
-          <a class="logo-author" href="https://vschetinin.ru/" rel="noopener nofollow"
+          <a class="logo-author" href="https://vschetinin.ru/" target="_blank" rel="noopener nofollow"
             title="Разработка сайта Владлен Щетинин">Разработка <span>vschetinin.ru</span></a>
         </li>
       </ul>
     </div>
     <div class="row text-center">
       <div class="col-100 logo-footer">
+        <?php if ($_SERVER["REQUEST_URI"] == '/') : ?>
+        <span class="logo-footer-link flex justify-center" href="/">
+          <img src="/assets/images/general/logo-main.jpg" class="logo-main" alt="logo-main">
+        </span>
+        <?php else : ?>
         <a class="logo-footer-link flex justify-center" href="/">
           <img src="/assets/images/general/logo-main.jpg" class="logo-main" alt="logo-main">
         </a>
+        <?php endif; ?>
       </div>
     </div>
   </div>

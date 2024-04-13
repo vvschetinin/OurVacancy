@@ -24,11 +24,17 @@
           <div class="row">
             <div class="col-100 flex justify-between items-center">
               <div class="flex items-center">
+                <?php if ($_SERVER["REQUEST_URI"] == '/') : ?>
+                <div class="mainlogo-wrap">
+                  <img src="/assets/images/general/logo-main.jpg" class="logo-main" alt="">
+                </div>
+                <?php else : ?>
                 <a href="/">
                   <div class="mainlogo-wrap">
                     <img src="/assets/images/general/logo-main.jpg" class="logo-main" alt="">
                   </div>
                 </a>
+                <?php endif; ?>
                 <ul class="ourname display-none display-block--lg">
                   <li>Завод</li>
                   <li>Металлоконструкций</li>
@@ -39,7 +45,6 @@
                 <div class="desktop-nav-inner">
                   <ul class="main-menu display-none flex--lg">
                     <li class="menu-item"><a href="/vacancy/">Список вакансий</a></li>
-                    <!-- <li class="menu-item"><a href="/news/">Новости</a></li> -->
                     <li class="menu-item btn-item"><a href="/contacts/">Связаться</a></li>
                   </ul>
                   <button class="header-toggle js-nav-toggle">
@@ -62,7 +67,6 @@
         <ul class="menu-mobil">
           <li class="menu-item"><a href="/">Главная</a></li>
           <li class="menu-item"><a href="/vacancy/">Список вакансий</a></li>
-          <!-- <li class="menu-item"><a href="/news/">Новости</a></li> -->
           <li class="menu-item"><a href="/contacts/">Контакты</a></li>
         </ul>
       </div>
